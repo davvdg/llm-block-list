@@ -1,1 +1,8 @@
 ||chatgpt.com^
+||claude.ai^
+||gemini.google.com^
+||copilot.microsoft.com^
+||perplexity.ai^
+||pi.ai^
+||llama.meta.ai^
+||mistral.ai^
